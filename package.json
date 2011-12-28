@@ -1,0 +1,15 @@
+{
+  "author": "Tim Caswell <tim@creationix.com>",
+  "name": "runner",
+  "description": "Runner is a simple child process runnner.  It runs node scripts and records the output.  Included is some nice caching abilities.",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "runner.js",
+  "engines": {
+    "node": "~0.6"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
